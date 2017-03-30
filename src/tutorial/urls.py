@@ -19,7 +19,7 @@ from  views import *
 
 
 urlpatterns = [
-#     url(r'^hello/', hello)
-    url(r'^hello/', current_datetime)
+    url(r'^hello/', hello)
+#     url(r'^hello/', current_datetime)
 
 ]
